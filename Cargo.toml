@@ -1,0 +1,15 @@
+[package]
+name = "mimc_hash"
+version = "0.1.0"
+edition = "2018"
+
+[dependencies]
+num-bigint = "0.4"
+num-traits = "0.2"
+num-integer = "0.1.44"
+lazy_static = "1.4.0"
+sha3 = "0.9.1"
+
+[lib]
+name = "mimc_hash"
+crate-type = ["cdylib", "lib"]

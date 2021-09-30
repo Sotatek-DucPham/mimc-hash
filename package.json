@@ -1,0 +1,12 @@
+{
+  "name": "mimc-hash",
+  "version": "1.0.0",
+  "main": "index.js",
+  "author": "Sotatek-DucPham <duc.pham@sotatek.com>",
+  "license": "MIT",
+  "devDependencies": {
+    "circomlib": "0.5.4",
+    "ffjavascript": "0.2.38",
+    "web3-utils": "1.5.3"
+  }
+}
